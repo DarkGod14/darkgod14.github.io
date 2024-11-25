@@ -17,8 +17,6 @@ Mods:
 ● SystemUI (didn't list due to laziness)
 ● Settings (didn't list due to laziness)
 
-
-
 v1.1:
 ● Semi R/W (System, Product, Vendor), system_ext could not be converted
 ● Optimized Fastboot and Twrp installer for better installation
