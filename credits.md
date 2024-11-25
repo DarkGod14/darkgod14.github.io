@@ -1,11 +1,6 @@
-# Créditos
-
-### Desarrolladores
-- Bryan (Líder del proyecto, programación)
-- Gabriel (Diseño gráfico)
-- [Nombre] (Testing)
-
-### Herramientas Utilizadas
-- Visual Studio Code
-- GitHub
-- Framework X
+@BlassGO for the Dynamic Installer
+@kashis_cringey_stuffs for the mods
+@Miui Monet Project for the SystemUi Plugin and Monet Support
+@Bryan for the charging animation
+@llions mods for the mods
+@XiaomiEUAppsGroup for the mods
