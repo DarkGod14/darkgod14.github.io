@@ -4,3 +4,9 @@
 @Bryan for the charging animation
 @llions mods for the mods
 @XiaomiEUAppsGroup for the mods
+
+Testers:
+@Luuxs12
+@Abel Rodri
+@Jocantonio1985
+@KnightJean02
