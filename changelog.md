@@ -8,7 +8,7 @@ V1.2:
 ● Themes fixed
 ● Unlimited Google Photos
 ● Unlock/lock sound changed
-● NFC fix (Tested)
+● NFC Fix (Tested)
 ● Google (Assistant)
 
 Mods:
