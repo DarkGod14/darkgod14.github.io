@@ -6,7 +6,7 @@
 @XiaomiEUAppsGroup for the mods
 
 Testers:
-@Luuxs12
+@Luuxs12 por ser muy gayyyyyyyyyyyyyyyyy sauuuuuuuuuu muerde almohadas
 @Abel Rodri
 @Jocantonio1985
 @KnightJean02
