@@ -4,6 +4,7 @@
 @Bryan for the charging animation
 @llions mods for the mods
 @XiaomiEUAppsGroup for the mods
+@Zonik94 for all the help and mods
 
 Testers:
 @Luuxs12 the best tester👌😎
